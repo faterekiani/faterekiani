@@ -27,5 +27,5 @@
 
 ### 📫 Get in Touch
 
-- [LikedIn]([httpss://test.com](https://www.linkedin.com/in/fatere-kiani-48607021b/))
+- [LinkedIn](https://www.linkedin.com/in/fatere-kiani-48607021b/)
 - [Email](mailto:faterekiani@gmail.com)

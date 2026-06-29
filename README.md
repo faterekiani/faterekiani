@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Fatere Kiani 👋
 
-<!--
-**faterekiani/faterekiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on React, Next.js, and TypeScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+**Frameworks:** React.js, Next.js, TailwindCSS, Material UI  
+**State:** Redux, Zustand, React Query, Context API  
+**Tools:** Git, Directus, REST, GraphQL, Axios  
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faterekiani-blue)](https://linkedin.com/in/faterekiani)
+[![Email](https://img.shields.io/badge/Email-faterekiani@gmail.com-red)](mailto:faterekiani@gmail.com)
